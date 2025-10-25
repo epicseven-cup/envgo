@@ -1,4 +1,4 @@
-package getorelseenv
+package envgo
 
 import (
 	"errors"
